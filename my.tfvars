@@ -1,0 +1,8 @@
+client="foo"
+environment="poc"
+service="foo"
+tag_finance="foonance"
+aws_region="us-east-1"
+state_bucket="terraform-remote-state-foo"
+state_region="us-east-1"
+remote_state_key="blar/blag/blug.tfstate"
