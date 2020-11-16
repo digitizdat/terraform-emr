@@ -28,7 +28,7 @@ NORMAL=$(ESC)[0m
 TF=tf12
 
 BACKEND=backend.tfvars
-TFVARS=my.tfvars
+TFVARS=terraform.tfvars
 
 all: init validate terraform destroy clean
 
